@@ -5,6 +5,6 @@ Learning from the repository "Build Your Own X", I was able to program a small a
 This is a big step in my programming journey, and I will be updating and improving upon the program as I gain experience.
 
 Instructions:
-Insert Command - insert # name person@email.com
-View Inputs - select
+Insert Command - insert # name person@email.com \n
+View Inputs - select \n
 Exit Program - .exit
